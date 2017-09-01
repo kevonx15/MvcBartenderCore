@@ -61,7 +61,7 @@ namespace MvcBartender.Controllers
                 CurrentCategory = currentCategory
             });
         }
-        /*
+        
         public ViewResult Search(string searchString)
         {
             string _searchString = searchString;
@@ -90,6 +90,6 @@ namespace MvcBartender.Controllers
             return View(drink);
             
         }
-        */
+        
     }
 }

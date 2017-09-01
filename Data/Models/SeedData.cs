@@ -249,6 +249,7 @@ namespace MvcBartender.Data.Models
                         InStock = true,
                         IsPreferredDrink = false,
                         ImageThumbnailUrl = "http://imgh.us/juiceS.jpg"
+
                     }
                 );
             }
